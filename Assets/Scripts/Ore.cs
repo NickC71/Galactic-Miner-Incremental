@@ -36,6 +36,14 @@ public class Ore : MonoBehaviour
     void Respawn()
     {
         health = maxHealth;
+
+        OreSpawner spawner = FindAnyObjectByType<OreSpawner>();
+
+        if (spawner != null)
+        {
+            spawner.MoveOre(this);
+        }
+
         gameObject.SetActive(true);
     }
     

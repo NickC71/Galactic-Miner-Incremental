@@ -2,18 +2,18 @@ using UnityEngine;
 
 public class SkillTreeToggle : MonoBehaviour
 {
-    public GameObject SkillTreePanel;
+    public GameObject SkillTreeScreen;
 
     void Start()
     {
-        SkillTreePanel.SetActive(false);
+        SkillTreeScreen.SetActive(false);
     }
 
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Tab))
         {
-            SkillTreePanel.SetActive(!SkillTreePanel.activeSelf);
+            SkillTreeScreen.SetActive(!SkillTreeScreen.activeSelf);
         }
     }
 }
