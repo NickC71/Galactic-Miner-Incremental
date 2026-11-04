@@ -17,7 +17,7 @@ public class MiningRunManager : MonoBehaviour
     public Inventory inventory;
     public Transform player;
     public Vector3 startingPosition = Vector3.zero;
-    public float runTime = 60f;
+    public float runTime = 30f;
 
     private Rigidbody2D playerRigidbody;
     private float timeRemaining;
@@ -60,6 +60,7 @@ public class MiningRunManager : MonoBehaviour
     {
         timeRemaining = runTime;
         runActive = true;
+        startingBars = inventory.bars;
 
         player.transform.position = startingPosition;
 

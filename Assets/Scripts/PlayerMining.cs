@@ -5,7 +5,7 @@ public class PlayerMining : MonoBehaviour
 {
     public Transform firePoint;
     public GameObject projectile;
-    public float fireRate = 0.2f;
+    public float fireRate = 0.6f;
     public int miningPower = 1;
 
     private float nextFireTime = 0f;

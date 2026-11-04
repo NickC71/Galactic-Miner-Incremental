@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: 71f6576cf900dee44a9c4cd5606fd5c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4807288030374304987
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_0
+  - first:
+      213: 8557998863785596970
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_1
+  - first:
+      213: 829337561076695350
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_2
+  - first:
+      213: -8004154785009505640
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_3
+  - first:
+      213: -4561168680727843209
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_4
+  - first:
+      213: -1685111620112388142
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_5
+  - first:
+      213: -6925528468757994538
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_6
+  - first:
+      213: 1252111961693500931
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_7
+  - first:
+      213: -2042154076631750793
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_8
+  - first:
+      213: 7360253111406800710
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_9
+  - first:
+      213: -1769052841407935367
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_10
+  - first:
+      213: 8327816159082366620
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_11
+  - first:
+      213: 2027081933775257409
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_12
+  - first:
+      213: -6460923408874207201
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_13
+  - first:
+      213: -835034835275021908
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_14
+  - first:
+      213: -9045787029456029822
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_15
+  - first:
+      213: 4946173145344463552
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_16
+  - first:
+      213: -7207134267761577086
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_17
+  - first:
+      213: 5142797590511351851
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_18
+  - first:
+      213: -4176542605065844708
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_19
+  - first:
+      213: -8931081215601975962
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_20
+  - first:
+      213: 8669578480089287405
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_21
+  - first:
+      213: 7513947396946334463
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_22
+  - first:
+      213: 4881169021030192973
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_23
+  - first:
+      213: -3410580543990613397
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_24
+  - first:
+      213: 5036075882244823124
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_25
+  - first:
+      213: 1751794906867471866
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_26
+  - first:
+      213: -6483334580498005106
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_27
+  - first:
+      213: -77945336834923258
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_28
+  - first:
+      213: -5099936953021942906
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_29
+  - first:
+      213: 7269992192612351961
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_30
+  - first:
+      213: -5886812070802694627
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_31
+  - first:
+      213: -4022170387910932425
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_32
+  - first:
+      213: -7213932949129093501
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_33
+  - first:
+      213: 8481864676192687920
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_34
+  - first:
+      213: -8644574721357131326
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_35
+  - first:
+      213: 891915352082247498
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_36
+  - first:
+      213: -759102883978882510
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_37
+  - first:
+      213: -5060745491169543768
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_38
+  - first:
+      213: 789321241786596102
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_39
+  - first:
+      213: 6459668335342061584
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_40
+  - first:
+      213: 2676018986277585031
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_41
+  - first:
+      213: 9153000554877743595
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_42
+  - first:
+      213: -6741555341924809757
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_43
+  - first:
+      213: 6603576376683579006
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_44
+  - first:
+      213: -6073565522492939484
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_45
+  - first:
+      213: 7729052707337928991
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_46
+  - first:
+      213: 6145272178713269851
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_47
+  - first:
+      213: 7294547451991779557
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_48
+  - first:
+      213: -2451796275310645896
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_49
+  - first:
+      213: 8219175626365055783
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_50
+  - first:
+      213: 3154895928338430777
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_51
+  - first:
+      213: 5252965383944154813
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_52
+  - first:
+      213: -2866073047005376263
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_53
+  - first:
+      213: -3089678330194828406
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_54
+  - first:
+      213: -8261362369246917175
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_55
+  - first:
+      213: 2835760074231440586
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_56
+  - first:
+      213: 5715715864421390881
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_57
+  - first:
+      213: 5293264680340687479
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_58
+  - first:
+      213: -3876910773322329849
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_59
+  - first:
+      213: 8701161574166165553
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_60
+  - first:
+      213: 7315234770878176307
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_61
+  - first:
+      213: 6012554035348807026
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_62
+  - first:
+      213: -4512852069989924203
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_63
+  - first:
+      213: -2521722544760500844
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_64
+  - first:
+      213: -2980994371075257399
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_65
+  - first:
+      213: -8606485975717268865
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_66
+  - first:
+      213: -5854576671133973869
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_67
+  - first:
+      213: 1274351716770829899
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_68
+  - first:
+      213: 4619062090217913518
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_69
+  - first:
+      213: 3629008674688378872
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_70
+  - first:
+      213: -1951687185547882496
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_71
+  - first:
+      213: -2323720985536461683
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_72
+  - first:
+      213: -1663518329035020085
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_73
+  - first:
+      213: 5180770609076490576
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_74
+  - first:
+      213: -1814056353359329411
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_75
+  - first:
+      213: 2992283326550889569
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_76
+  - first:
+      213: -1723535450632336108
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_77
+  - first:
+      213: 1493944350521402826
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_78
+  - first:
+      213: -20838458518783830
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_79
+  - first:
+      213: 2698180382538914909
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_80
+  - first:
+      213: -7442102092737638977
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_81
+  - first:
+      213: 6138175065488737263
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_82
+  - first:
+      213: 520293216490164549
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_83
+  - first:
+      213: -7594961654097847627
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_84
+  - first:
+      213: 1938460859095488880
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_85
+  - first:
+      213: 2009360859036351747
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_86
+  - first:
+      213: -2442581353296989090
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_87
+  - first:
+      213: 9211661593902700415
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_88
+  - first:
+      213: 8268960953682311802
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_89
+  - first:
+      213: 9197339651648352841
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_90
+  - first:
+      213: -4558827885639100452
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_91
+  - first:
+      213: 5300221829354979327
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_92
+  - first:
+      213: 3515719726422047954
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_93
+  - first:
+      213: 6195121986483882979
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_94
+  - first:
+      213: -3943623460452633025
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_95
+  - first:
+      213: 867053878571029994
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_96
+  - first:
+      213: 4328697841279509447
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_97
+  - first:
+      213: -1415219536789351297
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_98
+  - first:
+      213: 4425716031841565949
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_99
+  - first:
+      213: 6201998655982235102
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_100
+  - first:
+      213: -7295332776765042342
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_101
+  - first:
+      213: -2864971762439762783
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_102
+  - first:
+      213: 8704087256275189325
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_103
+  - first:
+      213: -5687143164933618309
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_104
+  - first:
+      213: -4699060447310326699
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_105
+  - first:
+      213: 9093037254333903609
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_106
+  - first:
+      213: 4493897690406100439
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_107
+  - first:
+      213: -6365079024531489193
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_108
+  - first:
+      213: 2880205455355699488
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_109
+  - first:
+      213: -1383857988031646234
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_110
+  - first:
+      213: -4443088242773333940
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_111
+  - first:
+      213: 7994085218157032733
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_112
+  - first:
+      213: 5207714914780359344
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_113
+  - first:
+      213: 2785808352312569504
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_114
+  - first:
+      213: 8895873276464819194
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_115
+  - first:
+      213: -6685494501452958625
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_116
+  - first:
+      213: -5931709554145693998
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_117
+  - first:
+      213: 4627555653735298353
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_118
+  - first:
+      213: 1818539511718832837
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_119
+  - first:
+      213: -8225608889699460238
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_120
+  - first:
+      213: 4919158826135807668
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_121
+  - first:
+      213: -5514201333453929671
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_122
+  - first:
+      213: 5686806707825552498
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_123
+  - first:
+      213: 8184398574149963237
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_124
+  - first:
+      213: 3182166846431133287
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_125
+  - first:
+      213: -7613092080070357936
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_126
+  - first:
+      213: 7840906162083519688
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_127
+  - first:
+      213: -3343748562826581070
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_128
+  - first:
+      213: -6038366997996976095
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_129
+  - first:
+      213: -8854724460355357519
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_130
+  - first:
+      213: -6699658182828730440
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_131
+  - first:
+      213: 1051445033979451468
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_132
+  - first:
+      213: -8044713334779245284
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_133
+  - first:
+      213: 5774364158824524369
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_134
+  - first:
+      213: -890386464327460266
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_135
+  - first:
+      213: 1955129864245015751
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_136
+  - first:
+      213: -3361841292594284593
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_137
+  - first:
+      213: -6052703627020706063
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_138
+  - first:
+      213: 4327854584790285603
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_139
+  - first:
+      213: 812501876761153664
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_140
+  - first:
+      213: -2304655063146756043
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_141
+  - first:
+      213: -5822112717770488835
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_142
+  - first:
+      213: 4948830537760812356
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_143
+  - first:
+      213: 4889262719874142601
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_144
+  - first:
+      213: 5605200321662700259
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_145
+  - first:
+      213: 2098996975075877321
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_146
+  - first:
+      213: -4384749195847369385
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_147
+  - first:
+      213: 8811907283960989932
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_148
+  - first:
+      213: 5675116114033560730
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_149
+  - first:
+      213: -3343252680028044043
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_150
+  - first:
+      213: -3018249002953813113
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_151
+  - first:
+      213: 4254945984896780966
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_152
+  - first:
+      213: 1694354945960667542
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_153
+  - first:
+      213: -8328097175590509467
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_154
+  - first:
+      213: 7568238187861446325
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_155
+  - first:
+      213: -5446128933872291256
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_156
+  - first:
+      213: 618303072884041267
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_157
+  - first:
+      213: -4660372800638511695
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_158
+  - first:
+      213: 7502990786702477841
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_159
+  - first:
+      213: 9182969013856353125
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_160
+  - first:
+      213: -7983288722901913758
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_161
+  - first:
+      213: 6191439201101817008
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_162
+  - first:
+      213: -9004766547848692339
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_163
+  - first:
+      213: -4312822734095195058
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_164
+  - first:
+      213: 1477972840027577928
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_165
+  - first:
+      213: 4526652814047277420
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_166
+  - first:
+      213: -1840048511461165707
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_167
+  - first:
+      213: 8071343235514742946
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_168
+  - first:
+      213: -1786612293403541440
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_169
+  - first:
+      213: -8191676589960867244
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_170
+  - first:
+      213: 4835914767895669910
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_171
+  - first:
+      213: 5675017479759563005
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_172
+  - first:
+      213: 5610919929686712782
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_173
+  - first:
+      213: -6990994287917678767
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_174
+  - first:
+      213: -5589519717692691365
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_175
+  - first:
+      213: -4025822102177128537
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_176
+  - first:
+      213: -8892851211906376695
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_177
+  - first:
+      213: -8152255587593141202
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_178
+  - first:
+      213: -4633165932808460364
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_179
+  - first:
+      213: -5785820738902298361
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_180
+  - first:
+      213: 2426406720090544480
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_181
+  - first:
+      213: -1102293015588137991
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_182
+  - first:
+      213: -6289452458821296552
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_183
+  - first:
+      213: -4874513261106751831
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_184
+  - first:
+      213: 1233359392535827393
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_185
+  - first:
+      213: -1944225809285643915
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_186
+  - first:
+      213: 9082409208652342422
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_187
+  - first:
+      213: 1893509460309478340
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_188
+  - first:
+      213: -9026074999835707467
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_189
+  - first:
+      213: -3535016834395541342
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_190
+  - first:
+      213: 5241730577177258694
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_191
+  - first:
+      213: 2464453260549007844
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_192
+  - first:
+      213: -6118148785261848919
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_193
+  - first:
+      213: 2708276800086189008
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_194
+  - first:
+      213: -5091558015815429773
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_195
+  - first:
+      213: -5776617376685633475
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_196
+  - first:
+      213: 5149713976709014856
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_197
+  - first:
+      213: -7741097218118527768
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_198
+  - first:
+      213: -3950071636772821144
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_199
+  - first:
+      213: 522724230264963546
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_200
+  - first:
+      213: -5969448923268472523
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_201
+  - first:
+      213: 155542630619474939
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_202
+  - first:
+      213: 9162087283276344777
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_203
+  - first:
+      213: 4379202827828063133
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_204
+  - first:
+      213: 2769383108344484734
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_205
+  - first:
+      213: -9064769135530192259
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_206
+  - first:
+      213: 9070628980030089738
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_207
+  - first:
+      213: -2195300961433856423
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_208
+  - first:
+      213: -6553163520274050931
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_209
+  - first:
+      213: 2883029725961914834
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_210
+  - first:
+      213: -7203376179188226225
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_211
+  - first:
+      213: 6308843390268968710
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_212
+  - first:
+      213: 1952344553230913219
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_213
+  - first:
+      213: 6622965116836541973
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_214
+  - first:
+      213: 3911827113929719322
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_215
+  - first:
+      213: 7834285473880548898
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_216
+  - first:
+      213: 7759112700176258913
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_217
+  - first:
+      213: 6951047299852660384
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_218
+  - first:
+      213: 3022136722824232962
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_219
+  - first:
+      213: -4365273646887050484
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_220
+  - first:
+      213: 8789732118934131904
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_221
+  - first:
+      213: -1423320379217407810
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_222
+  - first:
+      213: 1541139500708045622
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_223
+  - first:
+      213: 2155584452178265733
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_224
+  - first:
+      213: 6584928246253734828
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_225
+  - first:
+      213: -6645212253447493831
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_226
+  - first:
+      213: -7558176728166864400
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_227
+  - first:
+      213: -2851091072878489051
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_228
+  - first:
+      213: -738265709494453404
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_229
+  - first:
+      213: -3930611727312110199
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_230
+  - first:
+      213: 5763845219912885548
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_231
+  - first:
+      213: -556400046273616815
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_232
+  - first:
+      213: -837460444101790575
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_233
+  - first:
+      213: 1922732642680038695
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_234
+  - first:
+      213: 4401017308591808759
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_235
+  - first:
+      213: 8740760477070986754
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_236
+  - first:
+      213: -8846854227931769263
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_237
+  - first:
+      213: 1854182329968836770
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_238
+  - first:
+      213: -2692828759523269820
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_239
+  - first:
+      213: -86636590287465594
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_240
+  - first:
+      213: -5770623345877942275
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_241
+  - first:
+      213: -4464215950011668087
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_242
+  - first:
+      213: 3395884079323532031
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_243
+  - first:
+      213: 9151694699562129089
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_244
+  - first:
+      213: 1611768387436406904
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_245
+  - first:
+      213: -1342075610704613747
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_246
+  - first:
+      213: -530835489895415849
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_247
+  - first:
+      213: -8874665125172107083
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_248
+  - first:
+      213: 48294690373829738
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_249
+  - first:
+      213: -4484156634678094840
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_250
+  - first:
+      213: -7933057493866867626
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_251
+  - first:
+      213: -270858838628305368
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_252
+  - first:
+      213: -1777596276673061388
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_253
+  - first:
+      213: 8086739453469231725
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_254
+  - first:
+      213: -7098777302964591634
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_255
+  - first:
+      213: 3202817221512787947
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_256
+  - first:
+      213: 1528364603762357074
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_257
+  - first:
+      213: 5496126352702288064
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_258
+  - first:
+      213: 2932168221244036239
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_259
+  - first:
+      213: 4541280189628371336
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_260
+  - first:
+      213: 187328964970499240
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_261
+  - first:
+      213: -8676465671799761232
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_262
+  - first:
+      213: -8737403174779244228
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_263
+  - first:
+      213: -5092068491503189655
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_264
+  - first:
+      213: 360989915389160057
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_265
+  - first:
+      213: 2060750402141163444
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_266
+  - first:
+      213: -5899225121227815532
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_267
+  - first:
+      213: 3298706629294635952
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_268
+  - first:
+      213: -7676841608311341614
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_269
+  - first:
+      213: 6279132110421168932
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_270
+  - first:
+      213: -4019635199024386615
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_271
+  - first:
+      213: -1181688793350041370
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_272
+  - first:
+      213: 2235991216359122750
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_273
+  - first:
+      213: 5543826761403386742
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_274
+  - first:
+      213: 3138313829302303993
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_275
+  - first:
+      213: 2717493724436087065
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_276
+  - first:
+      213: -2782372171863595022
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_277
+  - first:
+      213: 1723564567649766831
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_278
+  - first:
+      213: -4232034384201059275
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_279
+  - first:
+      213: -1432450629281084825
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_280
+  - first:
+      213: 5558366001948132011
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_281
+  - first:
+      213: 3791341765355343354
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_282
+  - first:
+      213: -4394427918367455981
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_283
+  - first:
+      213: 296050700821882855
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_284
+  - first:
+      213: -3370845292549221710
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_285
+  - first:
+      213: 8239324371272561616
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_286
+  - first:
+      213: 4650427278810024317
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_287
+  - first:
+      213: 3730872090248507956
+    second: Eight-Frame Blue Energy Vortex Sprite Sheet_288
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eight-Frame Blue Energy Vortex Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 10
+        width: 265
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 223, z: 0, w: 175}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc92775efae6b240800000000000000
+      internalID: 4807288030374304987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eight-Frame Blue Energy Vortex Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 271
+        height: 724
+      alignment: 9
+      pivot: {x: 0.5787588, y: 0.49196002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a281328df9e14c670800000000000000
+      internalID: 8557998863785596970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eight-Frame Blue Energy Vortex Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 271
+        height: 724
+      alignment: 9
+      pivot: {x: 0.5867093, y: 0.4921838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6318dd62e16628b00800000000000000
+      internalID: 829337561076695350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eight-Frame Blue Energy Vortex Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 0
+        width: 271
+        height: 724
+      alignment: 9
+      pivot: {x: 0.5733111, y: 0.49082512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ae34081a78be090800000000000000
+      internalID: -8004154785009505640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eight-Frame Blue Energy Vortex Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 271
+        height: 724
+      alignment: 9
+      pivot: {x: 0.5558348, y: 0.49337465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e6490404973b0c0800000000000000
+      internalID: -4561168680727843209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eight-Frame Blue Energy Vortex Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 0
+        width: 271
+        height: 724
+      alignment: 9
+      pivot: {x: 0.54176426, y: 0.49218383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df615cd8e74d98e0800000000000000
+      internalID: -1685111620112388142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eight-Frame Blue Energy Vortex Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 0
+        width: 271
+        height: 724
+      alignment: 9
+      pivot: {x: 0.5208821, y: 0.48827568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d323d9fc8493ef90800000000000000
+      internalID: -6925528468757994538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eight-Frame Blue Energy Vortex Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 0
+        width: 271
+        height: 724
+      alignment: 9
+      pivot: {x: 0.51362413, y: 0.49082538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30632c7f135606110800000000000000
+      internalID: 1252111961693500931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5367d46d2a2986e48a4a193058609cce
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":1.0},"gridSpriteSize":{"x":271.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Eight-Frame Blue Energy Vortex Sprite Sheet_0: 4807288030374304987
+      Eight-Frame Blue Energy Vortex Sprite Sheet_1: 8557998863785596970
+      Eight-Frame Blue Energy Vortex Sprite Sheet_2: 829337561076695350
+      Eight-Frame Blue Energy Vortex Sprite Sheet_3: -8004154785009505640
+      Eight-Frame Blue Energy Vortex Sprite Sheet_4: -4561168680727843209
+      Eight-Frame Blue Energy Vortex Sprite Sheet_5: -1685111620112388142
+      Eight-Frame Blue Energy Vortex Sprite Sheet_6: -6925528468757994538
+      Eight-Frame Blue Energy Vortex Sprite Sheet_7: 1252111961693500931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Projectile : MonoBehaviour
 {
+    public GameObject impactEffect;
     public float projectileSpeed;
     public float lifetime = 0.01f;
     public int damage = 1;
@@ -26,6 +27,10 @@ public class Projectile : MonoBehaviour
             if (ore != null)
             {
                 ore.TakeDamage(damage);
+                if (impactEffect != null)
+                {
+                    Instantiate(impactEffect, transform.position, Quaternion.identity);
+                }
             }
 
             Destroy(gameObject);

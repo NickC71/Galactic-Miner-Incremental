@@ -8,6 +8,7 @@ public class Inventory : MonoBehaviour
 
     void Start()
     {
+        
         UpdateBarsText();
     }
     public void AddOreBars(int amount)
@@ -25,6 +26,12 @@ public class Inventory : MonoBehaviour
             return true;
         }
         return false;
+    }
+
+    public void SetBars(int amount)
+    {
+        bars = Mathf.Max(0, amount);
+        UpdateBarsText();
     }
 
     void UpdateBarsText()
