@@ -19,7 +19,12 @@ public class Ore : MonoBehaviour
         Debug.Log("Ore health: " + health);
 
         if (health <= 0)
-        { 
+        {
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.PlayOreBreak();
+            }
+
             Inventory inventory = FindAnyObjectByType<Inventory>();
 
             if (inventory != null)

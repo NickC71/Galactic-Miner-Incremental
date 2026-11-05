@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
@@ -56,5 +57,23 @@ public class PauseMenu : MonoBehaviour
         isPaused = false;
         settingsPanel.SetActive(false);
         Time.timeScale = 1f;
+    }
+
+    public void SaveAndExit()
+    {
+        if (SaveManager.Instance != null)
+        {
+            SaveManager.Instance.SaveGame();
+
+            // Clear references to objects in the gameplay scene.
+            SaveManager.Instance.inventory = null;
+            SaveManager.Instance.skillTree = null;
+        }
+
+        // Make sure the next scene isn't paused.
+        Time.timeScale = 1f;
+
+        // Return to the main menu.
+        SceneManager.LoadScene("MainMenu");
     }
 }

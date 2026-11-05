@@ -10,6 +10,10 @@ public class MainMenu : MonoBehaviour
 
     public void QuitGame()
     {
+        Debug.Log("QUIT BUTTON CLICKED");
+
         Application.Quit();
+
+        Debug.Log("APPLICATION QUIT REQUESTED");
     }
 }

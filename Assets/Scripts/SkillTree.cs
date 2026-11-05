@@ -9,6 +9,8 @@ public class SkillTree : MonoBehaviour
     public Inventory inventory;
     public MiningRunManager runManager;
 
+    public Button oreValueButton;
+
     public Button fireRateButton;
     public Button rangeButton;
     public Button miningPowerButton;
@@ -17,6 +19,10 @@ public class SkillTree : MonoBehaviour
     public Button rangeIIButton;
     public Button miningPowerIIButton;
     public Button runDurationButton;
+    private int lastSavedBars;
+    private int lastSavedUpgradeLevels;
+
+    private int oreValueLevel = 0;
 
     private int fireRateLevel = 0;
     private int rangeLevel = 0;
@@ -26,6 +32,9 @@ public class SkillTree : MonoBehaviour
     private int rangeIILevel = 0;
     private int miningPowerIILevel = 0;
     private int runDurationLevel = 0;
+   
+
+    private int[] oreValueCosts = { 50, 150, 300, 500 };
 
     private int[] basicCosts = { 10, 20, 30, 40, 50 };
     private int[] powerCosts = { 15, 30, 45, 60, 75 };
@@ -38,6 +47,8 @@ public class SkillTree : MonoBehaviour
         UpdateButton(fireRateButton, fireRateLevel, basicCosts, true);
         UpdateButton(rangeButton, rangeLevel, basicCosts, true);
         UpdateButton(miningPowerButton, miningPowerLevel, powerCosts, true);
+
+        UpdateButton(oreValueButton, oreValueLevel, oreValueCosts, true);
 
         UpdateButton(fireRateIIButton, fireRateIILevel, advancedCosts,
             fireRateLevel == 5);
@@ -57,6 +68,9 @@ public class SkillTree : MonoBehaviour
         UpdateButtonText(miningPowerButton, "Mining Power I",
             miningPowerLevel, powerCosts, true);
 
+        UpdateButtonText(oreValueButton, "Ore Value",
+            oreValueLevel, oreValueCosts, true);
+
         UpdateButtonText(fireRateIIButton, "Fire Rate II",
             fireRateIILevel, advancedCosts, fireRateLevel == 5);
 
@@ -68,6 +82,24 @@ public class SkillTree : MonoBehaviour
 
         UpdateButtonText(runDurationButton, "Run Duration",
             runDurationLevel, durationCosts, true);
+    }
+
+    void LateUpdate()
+    {
+        if (SaveManager.Instance == null)
+            return;
+
+        if (inventory == null)
+            return;
+
+        if (inventory.bars != lastSavedBars ||
+            GetTotalUpgradeLevels() != lastSavedUpgradeLevels)
+        {
+            SaveManager.Instance.SaveGame();
+
+            lastSavedBars = inventory.bars;
+            lastSavedUpgradeLevels = GetTotalUpgradeLevels();
+        }
     }
 
     void UpdateButton(Button button, int level, int[] costs, bool unlocked)
@@ -104,7 +136,7 @@ public class SkillTree : MonoBehaviour
         if (button == null)
             return;
 
-        TMP_Text buttonText = button.GetComponentInChildren<TMP_Text>();
+        TMP_Text buttonText = button.GetComponentInChildren<TMP_Text>(true);
 
         if (buttonText == null)
             return;
@@ -132,6 +164,10 @@ public class SkillTree : MonoBehaviour
 
         if (inventory.SpendBars(basicCosts[fireRateLevel]))
         {
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.PlayUpgrade();
+            }
             playerMining.fireRate =
                 Mathf.Max(0.1f, playerMining.fireRate - 0.05f);
 
@@ -146,6 +182,10 @@ public class SkillTree : MonoBehaviour
 
         if (inventory.SpendBars(basicCosts[rangeLevel]))
         {
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.PlayUpgrade();
+            }
             projectile.lifetime += 0.1f;
             rangeLevel++;
         }
@@ -158,6 +198,10 @@ public class SkillTree : MonoBehaviour
 
         if (inventory.SpendBars(powerCosts[miningPowerLevel]))
         {
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.PlayUpgrade();
+            }
             playerMining.miningPower += 1;
             miningPowerLevel++;
         }
@@ -170,6 +214,10 @@ public class SkillTree : MonoBehaviour
 
         if (inventory.SpendBars(advancedCosts[fireRateIILevel]))
         {
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.PlayUpgrade();
+            }
             playerMining.fireRate =
                 Mathf.Max(0.1f, playerMining.fireRate - 0.1f);
 
@@ -184,6 +232,10 @@ public class SkillTree : MonoBehaviour
 
         if (inventory.SpendBars(advancedCosts[rangeIILevel]))
         {
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.PlayUpgrade();
+            }
             projectile.lifetime += 0.5f;
             rangeIILevel++;
         }
@@ -196,6 +248,10 @@ public class SkillTree : MonoBehaviour
 
         if (inventory.SpendBars(advancedPowerCosts[miningPowerIILevel]))
         {
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.PlayUpgrade();
+            }
             playerMining.miningPower += 3;
             miningPowerIILevel++;
         }
@@ -208,9 +264,41 @@ public class SkillTree : MonoBehaviour
 
         if (inventory.SpendBars(durationCosts[runDurationLevel]))
         {
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.PlayUpgrade();
+            }
             runManager.runTime += 5f;
             runDurationLevel++;
         }
+    }
+
+    public void OreValueUpgrade()
+    {
+        if (oreValueLevel >= 4)
+            return;
+
+        if (inventory.SpendBars(oreValueCosts[oreValueLevel]))
+        {
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.PlayUpgrade();
+            }
+            oreValueLevel++;
+            inventory.oreValue = 1 + oreValueLevel;
+        }
+    }
+
+    int GetTotalUpgradeLevels()
+    {
+        return fireRateLevel +
+               rangeLevel +
+               miningPowerLevel +
+               fireRateIILevel +
+               rangeIILevel +
+               miningPowerIILevel +
+               runDurationLevel +
+               oreValueLevel;
     }
 
     public void SaveUpgradeLevels(SaveData data)
@@ -224,6 +312,7 @@ public class SkillTree : MonoBehaviour
         data.miningPowerIILevel = miningPowerIILevel;
 
         data.runDurationLevel = runDurationLevel;
+        data.oreValueLevel = oreValueLevel;
     }
 
     public void LoadUpgradeLevels(SaveData data)
@@ -237,6 +326,8 @@ public class SkillTree : MonoBehaviour
         miningPowerIILevel = Mathf.Clamp(data.miningPowerIILevel, 0, 3);
 
         runDurationLevel = Mathf.Clamp(data.runDurationLevel, 0, 6);
+        oreValueLevel = Mathf.Clamp(data.oreValueLevel, 0, 4);
+        inventory.oreValue = 1 + oreValueLevel;
 
         // Rebuild player stats from the saved levels.
         playerMining.fireRate = Mathf.Max(0.1f,
@@ -251,5 +342,11 @@ public class SkillTree : MonoBehaviour
                  + rangeIILevel * 0.5f;
 
         runManager.runTime = 30f + runDurationLevel * 5f;
+    }
+
+    public void ResetAutosaveTracking()
+    {
+        lastSavedBars = inventory.bars;
+        lastSavedUpgradeLevels = GetTotalUpgradeLevels();
     }
 }

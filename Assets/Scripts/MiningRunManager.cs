@@ -100,6 +100,11 @@ public class MiningRunManager : MonoBehaviour
 
         skillTreeScreen.SetActive(false);
         runSummaryPanel.SetActive(true);
+
+        if (SaveManager.Instance != null)
+        {
+            SaveManager.Instance.SaveGame();
+        }
     }
 
     void ContinueToSkillTree()

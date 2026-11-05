@@ -19,6 +19,11 @@ public class PlayerMining : MonoBehaviour
             Projectile newProjectile = Instantiate(projectile, firePoint.position, firePoint.rotation).GetComponent<Projectile>();
             newProjectile.damage = miningPower;
 
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.PlayLaser();
+            }
+
             nextFireTime = Time.time + fireRate;
         }
     }

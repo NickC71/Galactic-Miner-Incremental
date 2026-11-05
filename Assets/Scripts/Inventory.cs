@@ -4,6 +4,7 @@ using Unity.VisualScripting;
 public class Inventory : MonoBehaviour
 {
     public int bars = 0;
+    public int oreValue = 1;
     public TMP_Text barsText;
 
     void Start()
@@ -13,7 +14,7 @@ public class Inventory : MonoBehaviour
     }
     public void AddOreBars(int amount)
     {
-        bars += amount;
+        bars += amount * oreValue;
         UpdateBarsText();
     }
 

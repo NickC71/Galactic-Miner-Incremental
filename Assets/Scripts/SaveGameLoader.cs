@@ -11,6 +11,7 @@ public class SaveGameLoader : MonoBehaviour
         SaveManager.Instance.skillTree = skillTree;
 
         SaveManager.Instance.LoadGame();
+        skillTree.ResetAutosaveTracking();
     }
     void Update()
     {

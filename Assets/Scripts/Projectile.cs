@@ -22,6 +22,11 @@ public class Projectile : MonoBehaviour
         // Instantiate(ore, transform.position, Quaternion.identity);
         if (collision.CompareTag("ore"))
         {
+            if (AudioManager.Instance != null)
+            {
+                AudioManager.Instance.PlayImpact();
+            }
+
             Ore ore = collision.GetComponent<Ore>();
 
             if (ore != null)
